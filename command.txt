@@ -1,0 +1,6 @@
+cd demo
+npm install  --registry=https://registry.npmmirror.com
+# 执行项目
+npm run tauri dev
+#  编译打包
+npm run tauri build
