@@ -4,3 +4,5 @@ npm install  --registry=https://registry.npmmirror.com
 npm run tauri dev
 #  编译打包
 npm run tauri build
+
+#
